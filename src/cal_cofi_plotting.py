@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import netCDF4 as ncdf
 import numpy as np
 import pandas as pd
-import scipy as sp
 
 def plot_cal_cofi_stations(path_to_stations, path_to_plot=None):
     """
